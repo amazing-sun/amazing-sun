@@ -1,11 +1,10 @@
 <img 
   align="right" 
-  height="250" 
-  width="110" 
-  src="assets/anime-hello-once.gif"
+  height="200" 
+  src="waving.gif"
 />
-<div style="max-width: 300px;">
-  <h3>Hello! 👋🏼</h3>
+<div>
+  <h3>Hello!</h3>
   <p>I'm Sun, a software developer specializing in creating Android and iOS apps using Flutter and Dart.</p>
   <ul>
     <li>🇵🇭 Living in <b>Cebu, Philippines</b></li>
